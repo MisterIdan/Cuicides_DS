@@ -1,4 +1,4 @@
 # Cuicides_DS
-Предсказание пола человека покончившего с собой
+Предсказание возраста человека покончившего с собой
 
-Predicting the gender of a person who committed suicide
+Predicting the age of a person who has committed suicide
